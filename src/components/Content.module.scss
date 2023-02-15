@@ -1,0 +1,16 @@
+.grid{
+    display:grid;
+    place-content: center;
+    grid-template-columns: repeat(4,350px);
+    grid-auto-columns: repeat(4,350px) ;
+    gap: 30px;
+}
+   
+ .contentCard{
+    width: 1500px;
+   }
+
+h3{
+
+    color: #54a0ff ; 
+}

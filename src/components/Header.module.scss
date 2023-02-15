@@ -1,0 +1,29 @@
+.header{
+    padding: 10px 20px;
+    box-shadow: var(--box-shadow-nav);
+    background-color:#EAB543  ;
+    img{
+        width: 80%;
+        display: block;
+        
+    }
+   
+    h1{
+        font-size: 80px;
+        color: #2d98da;
+    }
+    h2{
+        font-size: 50px;
+        color:#2d98da; 
+        margin-left:8%;
+    }
+    h3{
+        font-size: 30px;
+        margin-top: 15px;
+    
+    }
+    
+}
+.h-3{
+    color: gray;
+}
